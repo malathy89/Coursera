@@ -1,0 +1,297 @@
+
+.
+Welcome to class.
+Last lecture we talked about arithmetic
+expressions.
+And we know that the we could use the
+rules of precedence to actually compute a
+value for that arithmetic expression.
+Now in this lecture we're going to show
+that we can save that value in a variable.
+We're going to assign a name to that
+variable and then we can use that variable
+once subsequent arithmetic expressions.
+Why we want to do that?
+Well there's a couple reasons.
+First, if the expression was big and
+involved a complicated calculation, we
+might not want to actually do that again.
+So saving that value in a name avoids
+computing the same expression over and
+over.
+Second thing is, by giving this value a
+name we can help the person that's looking
+at your code understand what your
+computation, your program is doing.
+So, I'm going to walk you through a few
+examples of using variables inside your
+program to basically make your program
+more efficient or make it more
+understandable.
+Okay, let's do some examples.
+So let's talk about variables.
+So a variable is a placeholder for storing
+a value.
+Reclaim and store it to avoid
+re-computation, or to give a value a name
+to help understand what it represents.
+In Python valid variable names consist of
+combinations of letters, numbers and the
+underscore character.
+This character right here.
+The name has to start with either a letter
+or a underscore.
+We'll talk about when you wanna use
+underscore later in the class.
+The variable names are case sensitive.
+Typically, for now you should start with
+lowercase, then we'll tell you when you
+use uppercase conventionally later in the
+class.
+Here's some examples of a, ninja, very
+nice variable name.
+Capital ninja.
+Pretty good variable name also but don't
+use it until later in the class.
+Ninja underscore, underscore, underscore,
+underscore.
+Great gamer name, maybe not so great
+Python name.
+Illegal names.
+A number.
+1337.
+That actually has a meaning, that is
+called leet speak.
+One as in L, three as in E, E, seven as a
+T, leet.
+You can't be a leet, ninja unfortunately,
+at least not using numbers.
+If you want to have a multiple word name,
+variable name, it's fine.
+Just connect all the words using an
+underscore, that's python convention.
+So, for example, a legal name is elite
+ninja.
+If you want that to be even more elite you
+could be leet ninja.
+Or if you want to quantify your ninjaness,
+you can say, ninja<u>elite.elite.
+Unfortunately, you still can't start with</u>
+the number, so this is not going to work.
+How do you actually take that value and
+assign it to a variable?
+Well, you use equals.
+This is the same thing you did in, say
+middle school algebra.
+You say, variable equal value.
+Now notice that if you want to test to see
+if two values are equal you use a double
+equal.
+So, single equal is assignment, double
+equal is equality testing.
+Now, probably the most critical thing that
+you need to do whenever you want to go
+through and actually choose variable names
+is to think about something that's
+memorable that will help you understand
+what the variable represents.
+So, for example, if I will go through and
+I say up here, I say M.
+Variable M, what does it represent?
+Not sure but if I say my underscore name,
+I bet you can guess what that's going to
+be.
+It's going to be Joe Warren.
+So I can ask to print that out.
+Print my name, run that.
+Sure enough it's Joe Warren.
+I get another variable. I can say, my age.
+My age, number is 51.
+Okay.
+So, we've assigned some values to some
+variables, what can we do with them?
+Well, birthdays are fun.
+I just, I actually had a birthday in
+February.
+So, next February, I'll have another one.
+So, what could I do?
+I could go through and update my age.
+How would I do that?
+Well, I could say something like my age is
+equal to 51 plus one, then I could print
+my age.
+So if I run that.
+It's gonna be 52, surprise, surprise.
+But notice this is kind of a foolish
+expression here.
+Because I already had, okay, my current
+age right up here in this variable my age.
+So, in fact, what I should have really
+said is something like, my age is = to my
+age +one.
+And notice, that now works no matter what
+my current age.
+This is always going to give me one more
+than the current age.
+Computations like this, where I take a
+variable, I do something to it.
+And I update that second variable, are
+actually so frequent.
+But there's a shorthand that you can use
+in Python, and again, lots of other
+languages.
+Where you can use an operator which is
+called plus =.
+So the plus = operator takes the thing on
+the left hand side, gets its value.
+Takes this operator and applies it to the
+right hand side.
+And then stuffs the value back into the
+left hand side.
+So this does exactly the same thing.
+And then it comes back with my age is
+equal to 52.
+Let's see, what's another one?
+Let's do one more example real quick.
+So I'm going to tell you a story about
+another variable and this one may not be,
+seem to be exactly as understandable to
+begin with, but I'm going to I'm going to
+have a variable called magic pill.
+And I'm going to print out.
+My age minus the magic pill.
+So if I do that.
+Come back with, well, 22.
+Alright, so let's go through and comment
+out this, so we get the correct age.
+Get 21.
+So, what is magic pill?
+So, let me quick, quickly tell you the
+story of the magic pill.
+So, I have three children seventeen,
+fifteen and twelve.
+And, my fifteen year old, perhaps at one
+point, that he was going to go through and
+invent a pill that took 30 years off your
+age.
+So, he was going to give it away.
+So my oldest son said, wow, you know,
+that's, that's not wise, you should sell
+that pill, you know, we could make a lot
+of money.
+So, we had a long discussion about what it
+would, the value of a pill that took 30
+years off your age would be.
+And so we decided on $300,000.
+And so, there's still some doubt from my
+fifteen year old that this was actually
+really worth $300,000, so he called his
+granddad.
+Now his granddad was.
+74.
+And he asked grandad, would you, would you
+pay $300,000 for a pill that took 30 years
+off your age.
+And so grandad had an interesting
+response, thought for a little bit, and he
+said, I'll take two of those pills.
+So, let's print out what would happen if
+grandad bought two pills.
+B14, I think it's a wise choice.
+So, give your variable names memorable
+names, give your variables memorable
+names, it'll help you when you go back and
+look at your program and other people go
+back and look your program to understand
+what's going on.
+Okay.
+Give me a sec.
+So let's finish up with a more serious
+example that does something useful.
+So here I have in my comments, we'd like
+to convert from Fahrenheit to Celsius.
+So I've actually written down a formula
+here that kind of describes the conversion
+from a temperature F in Fahrenheit, to a
+temperature C in Celsius.
+So let's just turn that into a python
+code.
+So what I'm gonna do is, I'm gonna define
+a value for the Fahrenheit.
+So I'm gonna be a little more deliberative
+here and actually give it a longer name.
+I'm gonna call it Temp Fahrenheit.
+And I'm gonna initialize it to say, let's
+make it 32.
+I think I know what the value of 32
+Fahrenheit is in Celsius.
+And so then what I need to do?
+I want to go through my expression that
+converts ten Fahrenheit into temperature
+in Celsius.
+So I can say ten Celsius Is equal to,
+let's see, five nights.
+Times, well what are we going to use, it's
+going to be the temperature in Fahrenheit.
+So it's tempFahrenheit.
+Minus 32 and then let's print out what the
+resulting temperature is.
+So we'll print temp.
+Now, one thing it's often good to do is,
+when you type in a piece of code and
+you're testing it.
+Instead of just typing values, and then
+kind of running it, and hoping that things
+come out right.
+It's often good to think, okay.
+What should the answer be before you run
+the code?
+So I said I knew the value of 32 degrees
+Fahrenheit and Celsius.
+And yes, that's zero degrees Celsius,
+that's freezing.
+So let's see what comes out here if I run
+it.
+So, good.
+Came out 32 Fahrenheit is zero degrees
+Celsius.
+Now, we also know that, let's see, 212
+degrees Fahrenheit should be 100 degrees
+Celsius.
+So the value of writing this expression
+down here is that now we can just go
+through, and change the value of
+Fahrenheit to be 212.
+And run it again, and if we're doing well,
+it comes out to be 100.
+Then let's do it the other way.
+Let's go through and write an expression
+that converts from Celsius to Fahrenheit,
+so you get one more little piece of
+practice.
+So I could say, Tip Celsius is equal to
+zero, and then I can write my expression
+that converts from Celsius to Fahrenheit.
+So, temp Fahrenheit is equal to, well,
+let's see what my formula says, it says
+9/5, times, well, Tip Celsius.
+Plus, 32.
+Let's make it print out.
+Print, Temp Fahrenheit So again, if the,
+temperature is zero degrees Celsius, we'd
+expect 32 degrees Fahrenheit.
+So sure enough it worked.
+Let's just do one more test real quick,
+it's always good to at least do a couple
+of tests when building things.
+So if his temperature is 100 degrees
+Celsius that's boiling so that should be
+212 degrees Fahrenheit, so sure enough it
+worked.
+So those are a couple of examples of using
+variables to organize your computations.
+Now in our next lecture we talk about more
+programming in Python, Scott's going to
+talk about functions and he'll actually
+come back and revisit this example.
+I'll see you in a few more lectures.

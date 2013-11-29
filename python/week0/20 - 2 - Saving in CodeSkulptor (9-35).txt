@@ -1,0 +1,351 @@
+
+[MUSIC]. 
+So, at this point in the class, we've 
+introduced you to CodeSkulptor, and we've 
+shown you a little bit of Python. 
+However, we haven't shown you how to save 
+anything. 
+So, if every time you go back to 
+CodeSkulptor, you have to retype in your 
+work, that's going to get really tedious, 
+really fast. 
+So, today, we're going to talk about 
+saving things and how to get them back 
+into CodeSkulptor. 
+Okay. 
+Let's head over to CodeSkulptor. 
+Here we are. 
+And for the purposes of today, I don't 
+want to use the example program. 
+Instead I just want to type my own. 
+[SOUND] It's my first program. 
+Print, hello. 
+Right? 
+I've got this fantastic program. 
+I run it. 
+Does what I expect. 
+Now I want to save it because I'm happy 
+with it. 
+Well, how do I do that? 
+You can see up here in the control par-, 
+part of the application that there is an 
+icon with a disk. 
+And that is the Save button. 
+I pushed it. 
+Looks like nothing happened. 
+Well, actually, something did happen. 
+The address in the address bar is 
+changed. 
+And if you look up here, you can see that 
+now at the end of the URL, is this 
+hashtag and its filename. 
+This filename was randomly generated for 
+you. 
+This now names your file in the Cloud. 
+When you push the Save button, your file 
+is sent off to the Cloud. 
+A new randomly generated filename is, is 
+created for you, and it is part of the 
+URL. 
+So, this URL will now, and until the end 
+of the class, name your file. 
+Okay? 
+So what does that mean? 
+It means I can copy this URL. 
+I can create a new tab. 
+I can paste it. 
+Let's load this. 
+And, hey, we got our program back. 
+Okay? 
+So, if I lose my program, say, we go back 
+to CodeSkulptor it's gone. 
+All right. 
+Well, it's not really gone, okay? 
+I can paste this back. 
+However, that filename was randomly 
+generated. 
+We don't know what it is. 
+So, only you know what it is. 
+You need to keep track of it. 
+If you lose it, it's gone. 
+All right? 
+So, how can I keep track of it? 
+Well, there are several ways. 
+Okay. 
+One, you could bookmark it. 
+Two, you could look in the history of 
+your browser. 
+Three, you could copy it and save it into 
+a file on your computer. 
+Four, you could email it to yourself. 
+And I'm sure there are many other ways 
+that you could come up with to keep track 
+of your filenames. 
+All right? 
+So, you should do whatever you find most 
+comfortable but you absolutely need to 
+save these filenames. 
+Okay? 
+And I'm going to show you on Chrome, 
+there's this little star button over 
+here. 
+I can push that and it will put a 
+bookmark. 
+So, I'm going to call it hello program. 
+I'm going to put it in the bookmarks bar, 
+say done. 
+And here it the/g, here it is. 
+It shows up on the bookmarks bar. 
+If you don't have a bookmarks bar, you 
+should go through the menus, I'm sure you 
+can find it. 
+Okay? 
+And when I push this and it doesn't 
+matter where I am. 
+Let's open up a new tab. 
+I push this and all of a sudden my 
+program comes back. 
+Okay? 
+So, it is critically important that you 
+keep track of these URL's, so that you 
+can get your files back. 
+I don't want to go through all the 
+possible ways that you can manage your 
+bookmarks. 
+You can use Google to find out about 
+that. 
+All right? 
+But make sure that you do so. 
+Okay. 
+So, you've written your very important 
+program and you've saved it to the Cloud 
+and we push the, the Save button. 
+We are very comfortable that our file has 
+been saved but to be really cautious, we 
+should download it to our local computer 
+as well. 
+You really want a copy for yourself, not 
+just relying on the Cloud. 
+Okay? 
+You could lose the URL, you could lose 
+something else. 
+And downloading, okay, by pushing 
+Download button right here, gets the file 
+that you most recently saved to the Cloud 
+and it brings it back to your local 
+computer. 
+Okay. 
+So, this button is only going to be 
+active right after you hit the Save 
+button. 
+Now, your web browser recognizes that 
+this is a Python program, and so it gives 
+you a warning, Hey, this program could 
+run and harm your computer. 
+Well, it's a program that you wrote, it's 
+not going to harm your computer, so you 
+can ignore this and keep it. 
+All right? 
+We've now downloaded our program. 
+Okay. 
+We can actually open the Downloads folder 
+and here we go. 
+You can see that I have two files that 
+I've downloaded in the past. 
+All right? 
+And I can actually open them and you can 
+look at it in Notepad and here is my 
+program. 
+So, now I have some extra security. 
+And we strongly recommend that after you 
+get a working program or after you're 
+done working in a particular session, 
+that you both bookmark the file and you 
+download it to your local machine. 
+Now, saving your files is only useful if 
+you can actually get them back. 
+So, if you copy the URL, either into your 
+own file or just copied it, you can paste 
+it back into the address bar and get your 
+file back. 
+If you bookmarked your URL, then you can 
+get it back, by using the bookmarks. 
+Okay? 
+If you forgot to bookmark, you can 
+actually use your History in Chrome. 
+That's Ctrl+H. 
+And you can see all these exciting 
+Codes-, CodeSkulptor files I've worked 
+on. 
+Right. 
+You push this. 
+You can get something back. 
+hey that's not the one I wanted. 
+I can keep searching. 
+Hey, here's another one okay. 
+Okay. 
+And you can probably find pretty much 
+everything you've done in your History, 
+all right? 
+Now, what if I downloaded the file 
+locally? 
+Okay, so here I am at CodeSkulptor, and I 
+had previously downloaded my file. 
+That's where this Open Local button 
+comes. 
+If I use the open button, I can navigate 
+through my hard drive. 
+I can find the file that I care about. 
+And I can open it, and here it is. 
+Okay? 
+So, you can use one of these mechanisms 
+to retrieve the files that you've saved, 
+depending on how you decided to actually 
+save it. 
+Now, it's never going to be the case that 
+you type your program in one shot, you're 
+done, you save it, and you submit it, 
+okay? 
+Programming is an incremental process. 
+So, here I wrote my program, I said, 
+print hello. 
+I said, oh wait, I was trying to write, 
+hello world. 
+Okay. 
+I'm on, hey much better. 
+I Save that. 
+wait a minute. 
+I like exclamation points. 
+There's not enough of them. 
+All right, let's Save that. 
+Oh, wait. 
+Let me run that again. 
+No, that's not really what I wanted. 
+I wanted this. 
+Okay? 
+And you keep going,okay? 
+Eventually, you get to something that 
+you're happy with. 
+You say, okay, this is the program I 
+want. 
+You go off and submit it or whatever, 
+okay? 
+I want you to notice, though, while 
+you're doing that, if you keep saving, 
+that the name of your file basically 
+stays the same, except this version 
+number at the end, increments. 
+It started out at zero, then it went to 
+one, two, three, four, and this is 
+somewhat convenient. 
+You can actually go back in time while 
+you're working in a session, you keep 
+saving. 
+You say, oh, I screwed up and I overwrote 
+things. 
+You can just, even if you didn't bookmark 
+them, you can change that number and say, 
+oh, I really meant to use that program 
+one back. 
+And hey, it goes back to my program with 
+all the exclamation points. 
+Okay, so the version number you might 
+find that relatively convenient way of 
+going back in time and looking at 
+previous versions while you've been 
+sitting there working. 
+Okay, as you can see, I've been working 
+hard on my hello world program here. 
+And I finally got it the way I want it 
+and I'm ready to submit it to Coursera, 
+to send it to all my friends and family, 
+and basically show off my, that coolness 
+of all of my work, all right? 
+You can just use the URL that you have 
+here and that's perfectly fine. 
+But you'll notice hey, this is the lucky 
+number 13 version of my, my file and 
+maybe I don't want people to be able to 
+look back through the history, and see 
+what happened in version number 6, okay? 
+So, we added a little suitcase button. 
+When you push the suitcase button, it 
+generates a new filename for you. 
+So, it does everything that the save 
+button does, it just doesn't have a 
+version number. 
+Now, if you'd like, you can use this to 
+submit to Coursera, you can use this to 
+send to your friends and family and they 
+can't see all the versions. 
+There's nothing wrong with the version 
+numbers, this is just your choice. 
+There's one final thing I want to call 
+you attention to. 
+And that is the prefix of the filename 
+right here, okay? 
+Now, you can see that it's user1 here, 
+but if you go to CodeSkulptor right now 
+and save, I guarantee you that it's not 
+going to be user1. 
+So, you guys are going to generate 
+hundreds of thousands of files a week and 
+this prefix helps us keep those files 
+manageable, all right? 
+So, we change this every once in a while. 
+We will change it in time, at times that 
+are not so disruptive, but do be aware 
+that that could change, okay? 
+And if it changes your version numbers 
+will just keep incrementing. 
+So, you, here I have User 1, Version 3. 
+If I hit Save and we had changed that to 
+User 2, it would go to User 2 Version 4, 
+okay? 
+Another thing I want to call your 
+attention to is the dashes in the 
+filename. 
+They might be dashes, they might 
+underbars, okay. 
+Don't worry about that, that's not a big 
+deal. 
+So, we've now shown you that using 
+CodeSkulptor, you can save your files to 
+the cloud, and then you can download them 
+back to your local hard drive. 
+You need to do this early and often, 
+okay? 
+As you're working, make sure that you 
+save, all right? 
+And when you're done working, either 
+because you finished your program or 
+you're tired of working at the computer 
+for now and you're going to walk away, 
+make sure at that point you bookmark and 
+you download the file to your local 
+computer. 
+This will make sure that you can always 
+get it back. 
+Remember, we cannot recover those URLs 
+for you. 
+If you lose the URL, we don't know it's 
+yours, we can't find it, we can't get it 
+back. 
+If you keep the URL, however, you can get 
+it back. 
+And you can use that URL to submit it to 
+Coursera. 
+You can use that URL to send to your 
+friends. 
+Marvel at the wonderful work that you've 
+been doing in this class and generally 
+enjoy yourself. 
+Okay? 
+We promise that we will save all these 
+files in the Cloud throughout the class. 
+All right? 
+But it's your responsibility to track the 
+URL's. 
+With that, I hope you have a lot of fun 
+in this class. 
+

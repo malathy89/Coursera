@@ -1,0 +1,516 @@
+
+[MUSIC]. 
+Well, welcome to the end of week zero. 
+for each week, I'll create a video for 
+the week's mini project. 
+And I'll walk you through the details of 
+how to create that mini project. 
+Most of the mini projects will be between 
+50 to 150 lines of Python code. 
+However, the first mini project we're 
+going to do is going to be very easy. 
+It's just one line of Python code. 
+And it's really designed to help you 
+learn how to create, submit and peer 
+evaluate your mini projects. 
+It's totally optional. 
+If you feel confident, you can follow 
+instructions, feel free to skip this. 
+If you think it's silly, feel free to 
+skip it. 
+before I go onto there though, I'm going 
+to answer two important questions. 
+First, why would anybody name a computer 
+lang, language after a giant snake? 
+It's Python. 
+Everybody says, well what's Python? 
+It's a snake. 
+Well, no, it's named after something 
+different. 
+It's named after Monty Python's Flying 
+Circus. 
+So, Monty Python's Flying Circus is a 
+British comedy troupe. 
+And there's a kind of a, a tradition in 
+the Python community to have inside 
+references to material from Monty 
+Python's skits and movies. 
+our project is based on inside reference 
+to the movie, Monty Python and the Holy 
+Grail. 
+And they're knights of King Arthur, 
+members of the Python comedy troupe, and 
+they go out and interact with the Knights 
+Who Say Ni. 
+And I'll let you kind of dig around on 
+the web, if you want to find out more 
+information. 
+But the phrase, we want a shrubbery, 
+comes up in that particular scene. 
+the second question that you might 
+want to ask is who's this? 
+This is Sir Loin. 
+I'm the chair of the Department of 
+Computer Science here at Rice and I 
+inherited Sir Loin. 
+This is really his name. 
+I was told specifically this is his name. 
+Five years ago, whenever I took over as 
+chair. 
+And for five years he's set here and I 
+have no clue what to do with him. 
+So, I decided for this video, what the 
+heck. 
+He'll be my co-host. 
+And actually, he'll weigh on in, weigh in 
+on an important topic later in this 
+video. 
+So anyways, let's go out now and get 
+serious and we'll talk about how to 
+create, submit and peer assess your mini 
+projects. 
+All right, let's walk through the process 
+of creating, submitting and peer assesing 
+your mini project. 
+So, we'll start here at the main class 
+page. 
+Over here, we have the Nav bar, which has 
+all the entries for various class 
+material and activities. 
+And now, the three most important ones 
+are Video Lectures, Quizzes and 
+Mini-projects. 
+So, kind of at the start of each week, go 
+out here, you'll click on Mini-projects 
+and you'll see here, it's kind of an 
+overview of how the process works for 
+submitting and assessing a mini-project. 
+And at the bottom, you'll see the links 
+for the various mini-projects you have 
+waiting. 
+So, here, for example, we have two 
+current mini-projects out. 
+This is the one for the end of week zero. 
+We want a shrubbery, that's optional. 
+You don't have to turn it in, just there 
+for you to figure out how peer assessment 
+works. 
+And the second one, this is the one 
+you're going to turn in, it's the end of 
+week one. 
+It'll be Rock-paper-scissor-lizard-Spock. 
+Now, kind of, one of the things that 
+comes up is when are these due? 
+So, we have one uniform time for the 
+entire class when everything is due, 
+quizzes, mini-projects, everything. 
+And that is 0500 Greenwich Median Time. 
+Now, because everybody works on their own 
+local time, you've got to figure out when 
+is that for you. 
+So, Coursera, Coursera has has support 
+for this. 
+So, the first thing I want you to do, is 
+go up to your Settings. 
+Up here, pull down, and make sure your 
+Timezone is set correctly. 
+So, I'm in the Chicago timezone. 
+So, I'm actually in Houston, so 
+everything is fine there. 
+And now, you can pull down here. 
+And you can see that it says, well 
+everything is due midnight Saturday in 
+Houston. 
+So, that's actually 500 Greenwich Median 
+Time. 
+And if you pull this button over, you can 
+actually see kind of the time dates for 
+both submission, peer assessment, and 
+then getting back the results. 
+So, you're going to have about three and 
+a half days to do peer assessment in 
+there. 
+so my kind of suggestion is, since it's 
+going to due in the middle of the weekend 
+on a middle of the weekend, my suggestion 
+is start early. 
+And then, you've got Saturday to kind of 
+work on doing the current week's 
+assignment. 
+And then, you can kind of take a glance 
+at the upcoming weeks assignment when 
+it's released. 
+Okay. 
+Let's go on and we'll look at the 
+specific assignment. 
+Okay, let's go walk through building your 
+first mini-project. 
+So, we'll go to this page, we'll say, 
+click Go To Assignment. 
+And, actually, up pops the webpage for 
+the assignment. 
+At the top, you can see kind of three 
+button, three things here. 
+These correspond to the submission phase, 
+which is we're in right now. 
+There'll be a peer evaluation phase. 
+And there'll be a phase where you see the 
+results. 
+So, I'm actually recording this video 
+well before class starts. 
+We scroll down here, we'll see kind of 
+the start of descriptions of the 
+mini-project. 
+the main thing in this particular 
+mini-project is to walk through the 
+logistics side. 
+A fairly detailed description of exactly 
+what we're talking about. 
+One thing to note here is that the 
+mini-project is always released at 0500 
+Greenwich Mean Time on a Saturday 
+morning. 
+So, that means you have exactly eight 
+days to work on your mini-projects. 
+So, if you get done early, you have an 
+entire weekend to work on it. 
+You have the following week, and you have 
+another day there. 
+So, If you work very effectively, you 
+have a good bit of time to work on the 
+mini-projects. 
+if you scroll on down, you see kind of 
+the rest of what we're going to talk 
+about here. 
+One thing to note here is we have a save 
+service available for CodeSkulptor. 
+For some reason, save doesn't work in 
+CodeSkulptor. 
+We've had that occasion with students 
+from some countries that block access to 
+Google storage. 
+You can use this link and have another 
+route in to actually generate a 
+CodeSculptor URL that you can submit for 
+your mini-project. 
+let's scroll on down. 
+For most of your assignments, this will 
+be kind of the meat of what you'll see. 
+You'll see a little introduction. 
+And then, you'll see what I'm going to 
+refer to as a mini-project development 
+process. 
+And that's going to be very detailed. 
+It's going to walk you through how to 
+build your mini-project step by step. 
+It's important you read it. 
+To help you get through these 
+mini-projects, we are going to give you 
+very detailed advice and recommendations. 
+I had way too many students in previous 
+sessions of the class ignore this and 
+say, I can do it on my own. 
+And then, at the end, they get stuck, and 
+they come say, oh my gosh, what's going 
+on. 
+I can't do this. 
+I ask, did you follow the development 
+process, and they go no. 
+So, use this, it's here to help you. 
+and then, the second thing I want to 
+point out is that there's a grading 
+rubric attached to this. 
+So, as you're working on the project, 
+we'll tell you exactly what your project 
+needs to do. 
+You're going to have questions such as, 
+does my project need to do x? 
+Well, look at the grading rubric. 
+The grading rubric is going to have 
+there, have a, on this case, probably 
+about 15 to 25 items that will determine 
+whether your project works correctly or 
+not. 
+And they're going to be very small part, 
+either you get a point or you won't. 
+So, for example, down here, one of rubric 
+items says the program prints a message 
+in the console. 
+Okay, if your program does it, you get a 
+point. 
+If your program doesn't, you won't. 
+so go through and take a look at this. 
+when you're actually ready to start 
+working on your mini-project. 
+Where it's going to provide you with a 
+program template. 
+And then, it will be a CodeSkulptor file 
+that you can start from, that provides 
+kind of a code base for getting working 
+on your project. 
+Currently, any mini-projects, it's not so 
+critical. 
+You can probably do it from scratch. 
+But when you start working on some of the 
+projects later in the class, we're going 
+to give you a lot of useful things. 
+For example, when you do rice rocks at 
+the end of the class, we're going to give 
+you all the art and sound assets. 
+So, that template's going to contain 
+information about how to get your hands 
+on this. 
+So, we'll just go through and do this 
+mini-project really quickly. 
+So, I'm going to click on this, and up 
+popped CodeSkulptor and what we see here. 
+You know, here's CodeSkulptor, we got 
+some comments. 
+But most importantly, here we see, print 
+hello world. 
+So, this mini-project is really easy, we 
+just have to change this to print. 
+We want a shrubbery, so let's do that. 
+[SOUND] Now, let's not forget our dots, a 
+shrubbery. 
+Let's run it really quick, looks pretty 
+good. 
+We can go back here and let's take a peek 
+at the grading rubric again. 
+Same number of dots. 
+Looks pretty good. 
+So, let's go into CodeSkulptor. 
+Now, we can hit Save. 
+And notice now, it generated a fresh 
+CodeSkulptor URL here. 
+So, this is unique for your particular 
+solution. 
+So now, when we're ready to submit this, 
+all we do is the following. 
+You select the URL. 
+Ctrl+C to copy, we go down and we Paste 
+it in this box. 
+That's all you do. 
+You don't cut and paste a version of your 
+program in here. 
+Cutting and pasting entire pieces of 
+programs is very tricky. 
+What happens is if somebody who's 
+creating your project actually doesn't 
+get an entire project? 
+Your'e going to be upset. 
+So, the critical thing here is only 
+submit a CodeSkulptor URL, don't submit 
+your program in here. 
+When you're happy with it, click the 
+Honor Code button. 
+Notice what that did. 
+That actually highlighted this button, 
+Submit for grading. 
+Okay. 
+So, a lot of the time I see people say, I 
+can't figure out how to submit it. 
+This button, yeah, this button isn't 
+highlighted for me. 
+You have to click this box that says, I 
+agree to the honor code. 
+When you're ready to submit it for 
+grading, click Submit for grading. 
+And there it is. 
+We've now submitted your, submitted your 
+code for grading. 
+So, a couple things about submission. 
+if you decide, wow, you know, I submitted 
+it early and I wanted to go back and work 
+on it some more because I realized it was 
+a mistake or I was a little bit, kind of 
+worried I was going to get it done in 
+time. 
+It's perfectly fine to cut an paste a new 
+URL in your corresponding to a new 
+assignment and resubmit it. 
+There's no penalty for submitting as much 
+as you want. 
+If you're getting close to the deadline 
+and you think, oh man, the deadline 
+passed,Coursera has a very, very generous 
+policy on late submission. 
+There's a great grace period. 
+So, if you're a couple of minutes past 
+the deadline, don't panic. 
+Just go through and submit it. 
+I think most of the time, you've got a, 
+you've got a fair bit of time to do it. 
+I want to emphasize one thing. 
+You have to click the Submit button. 
+If you click Save, your project will not 
+be submitted for grading. 
+Saving your project does not get it 
+submitted for, for grading in pure 
+assessment. 
+This is probably the biggest thing I can 
+say with this one video. 
+Click Submit. 
+If you don't click Submit, you'll be very 
+sad when you find out that you're not 
+going to be able to do peer assessment 
+and get your own project assessed by your 
+peers. 
+Hit Submit. 
+Okay. 
+Now, let's go out and take a look at peer 
+assessment. 
+Okay, let's walk through the process of 
+peer evaluation. 
+So, an hour after the mini-project is 
+due, the peer assessment page is open. 
+And so, if you go back to assignment 
+page, this tab will be active. 
+And in particular, if you click on this 
+link, you'll be directed to five pages, 
+one with one for each of five of your 
+peers. 
+Your job would to be go through and take 
+those peers projects and assess them 
+based on the grading rubic that we 
+provided. 
+You'll then, be asked to evaluate your 
+own project and do self assessment. 
+So, if we scroll down, we're actually 
+working on the first student. 
+Now, because this is before we've 
+actually started peer evaluations, this 
+box is empty, but this box will contain 
+the URL for your peer's assignment. 
+below, we'll have kind of a form that 
+you'll need to do to actually do the 
+evaluation. 
+We'll ask you two questions to start. 
+What kind of operating system does your 
+computer have and what kind of browser 
+did you use, in case there's some issue 
+with some of the, how your peer 
+assessment actually came out. 
+here are the grading instructions. 
+And this essentially kind of leads into 
+the four rubric items we talked about. 
+This is here, the first rubric item. 
+If we submit a valid CodeSkulptor URL, 
+and then we have some options for this, 
+and then we have a place to submit some 
+comments. 
+So, actually, let's go through and do it. 
+I actually have a URL, so I'm sitting 
+here in CodeSkulptor, I'm going to paste 
+it in. 
+And let's hit Enter. 
+And sure enough, up comes the project we 
+just did, that we just created. 
+So, it looks like that's a valid 
+CodeSkulptor URL. 
+So, I'm going to go through here and say 
+1. 
+And because it worked, I'm not going to 
+put any comments in. 
+See, running the program does not throw 
+an error. 
+Let's do that. 
+So, I'll run it. 
+No errors, looks good. 
+Let's go back and give them a 1. 
+Keep going. 
+It says prints a message in the console. 
+Yeah, printed a message in the console, 
+good job. 
+Okay. 
+Let's keep going down. 
+Last, prints the following message, we 
+want a shrubbery. 
+Okay. 
+Well, let's see, run it again. 
+We got, we want dot, dot, dot a shrubery. 
+Hmm, uh-oh, wait a misspelled shrubbery. 
+Hmm, let's go back. 
+It says, we want a shrubbery. 
+It says, prints the specified message. 
+Now, if you were having this machine 
+graded, you'd be out of luck. 
+But we're using humans. 
+So, humans have the ability to make 
+judgments. 
+And one of the judgments is that, that 
+your peers satisfy the spirit of this 
+rubric eye. 
+Remember, we're all here to learn. 
+So, I'm going to ask Sir Loin. 
+Sir Loin, did they need the spirit of 
+this rubric item? 
+Well, Sir Loin being part of King 
+Arthur's round table as merciful? 
+And he says yes, he did. 
+So, I'm going to give him full credit. 
+But, I'm going to make a note here that 
+you misspelled shrubbery. 
+It's always good if you're, either 
+there's an issue or you take off points 
+to add a comment here. 
+Just think how it is. 
+It's very frustrating if you get points 
+marked off of your project and there's no 
+reason given. 
+So, take a few seconds and put in a 
+message here, if there's some issue with 
+the project on a particular item. 
+then you get a chance to get some overall 
+feedback here. 
+Remember, this should be positive. 
+Your goal is not to make your peers feel 
+bad. 
+It's to give helpful advice. 
+you did a great job inside, outside of 
+spelling. 
+There you go. 
+And this point now, you can submit your 
+evaluation. 
+Once you've done that, Coursera will prop 
+you, prompt you to go off and do four 
+more students, and do this same process 
+of filling in forms. 
+For most mini-projects, it should take at 
+most an hour. 
+You spend maybe 10 minutes on each one. 
+That gives you, basically you have to do 
+five of your peers, and then you have to 
+do yourself. 
+That's about an hour worth of work. 
+the better job you do, hopefully your 
+peers will do a good job on your project. 
+One caveat. 
+You gotta hit Submit. 
+You can't get to the next projects until 
+you hit Submit. 
+So doing your peers is usually pretty 
+easy, people don't mess that up. 
+But you're in a hurry to get finished, 
+and you're doing a self assessment and 
+you forget to hit Submit. 
+What happens? 
+Well, Coursera says you didn't do your 
+self assessment. 
+And the way the grading is setup and we 
+can't change this, this is Course, this 
+is the way Coursera works, is you get a 
+20% fiddle if you fail to do peer 
+assessment or self assessment. 
+So, please, remember to hit Submit. 
+It's painful to lose 20% of your hard 
+earned grade because you forget to hit 
+Submit evaluation. 
+Okay, go out there and give it a crack, 
+our work through logistics. 
+This isn't for a grade, so this is your 
+chance to make some errors and learn how 
+to do it correctly next week when we do 
+rock, paper, scissors, lizard, spock. 
+Okay, see you then. 
+
